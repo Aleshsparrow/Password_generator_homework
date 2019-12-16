@@ -1,6 +1,6 @@
 # Password_generator_homework
 ## About the project.
-* The sole reason for this project is to help people/companies that deal with a lot of sensitive and personal information and are required to change password every few days or weeks come up with a strong password. Coming up with a strong password password sounds like an easy task, but it becomes a little difficult when you have to come up with a new password every few days or weeks.
+* The sole reason for this project is to help people/companies that deal with a lot of sensitive and personal information and are required to change password every few days or weeks come up with a strong password. Coming up with a strong password password sounds like an easy task, but it becomes a little difficult when you have to come up with a new password every few days or weeks. The generated password would have mixture of uppercase letters, lowercase letters, numbers and special characters. The user can also choose the desired length of the password.
 
     I started out by just having a simple html layout, added little style with css and did most of the work with java script.
 
@@ -19,7 +19,6 @@
 ## Contact
 * Segun Alesinloye 
 * segunalesh@gmail.com 
-* Project link:  
+* Project link: https://aleshsparrow.github.io/Password_generator_homework/.
 * Github repo link: https://github.com/Aleshsparrow
 
-## Acknowledgement
